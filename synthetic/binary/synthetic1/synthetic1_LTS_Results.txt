@@ -1,0 +1,3 @@
+Average Train set Accuracy: 1.0±0.0
+Average Test set Accuracy: 0.52±0.12952906151816965
+Training Time: 22.6295±5.402535335891433

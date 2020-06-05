@@ -1,0 +1,4 @@
+Average Train set Accuracy: 0.9824999999999999±0.020581815058714134
+Average Test set Accuracy: 0.5775±0.0758745309339336
+Training Time: 25.0485±4.276865655282304
+ Number of Shapelets: 10 Number of Orders:  45
